@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="jurusan"> Informatics Engineering S1 ITN Malang</string>
+    <string name="foto">Photos</string>
+    <string name="pengikut">Followers</string>
+    <string name="mengikuti">Following</string>
+    <string name="alamat">Malang, East Java </string>
+</resources>

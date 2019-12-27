@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> Profilku </string>
+    <string name="jurusan">Teknik Informatika S1 ITN Malang</string>
+    <string name="foto">Foto</string>
+    <string name="pengikut">Pengikut</string>
+    <string name="mengikuti">Mengikuti</string>
+    <string name="alamat">Malang, Jawa Timur </string>
+</resources>
